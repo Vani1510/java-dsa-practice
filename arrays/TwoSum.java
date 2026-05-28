@@ -1,4 +1,5 @@
 package arrays;
+// leetcode solution
 import java.util.Scanner;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
