@@ -27,5 +27,6 @@ class Solution {
         System.out.println("Enter target");
         int tar=sc.nextInt();
         v.twoSum(num,tar);
+        sc.close();
     }
 }
