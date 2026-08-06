@@ -9,11 +9,13 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
