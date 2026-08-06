@@ -8,6 +8,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
