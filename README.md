@@ -37,16 +37,20 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
