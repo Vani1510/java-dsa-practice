@@ -33,4 +33,20 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
