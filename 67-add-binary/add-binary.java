@@ -1,15 +1,22 @@
-import java.math.BigInteger;
-
 class Solution {
     public String addBinary(String a, String b) {
-        // Parse strings as base-2 BigIntegers
-        BigInteger num1 = new BigInteger(a, 2);
-        BigInteger num2 = new BigInteger(b, 2);
+        int n = a.length(), m = b.length();
+        int maxLen = Math.max(n, m);
+        char[] result = new char[maxLen + 1];
         
-        // Add them together
-        BigInteger sum = num1.add(num2);
-        
-        // Convert back to base-2 string
-        return sum.toString(2);
+        int i = n - 1, j = m - 1, k = maxLen;
+        int carry = 0;
+
+        while (i >= 0 || j >= 0 || carry > 0) {
+            int sum = carry;
+            if (i >= 0) sum += a.charAt(i--) - '0';
+            if (j >= 0) sum += b.charAt(j--) - '0';
+
+            result[k--] = (char) ((sum % 2) + '0');
+            carry = sum / 2;
+        }
+
+        // Return slice starting from k + 1 to skip any leading unused space
+        return new String(result, k + 1, maxLen - k);
     }
 }
