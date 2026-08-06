@@ -13,6 +13,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
