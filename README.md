@@ -62,4 +62,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Vani1510/java-dsa-practice/tree/master/2833-furthest-point-from-origin) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Vani1510/java-dsa-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
