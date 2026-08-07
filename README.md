@@ -66,4 +66,5 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vani1510/java-dsa-practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Vani1510/java-dsa-practice/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
