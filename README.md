@@ -25,6 +25,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/Vani1510/java-dsa-practice/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Vani1510/java-dsa-practice/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
