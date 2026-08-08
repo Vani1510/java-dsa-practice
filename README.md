@@ -6,6 +6,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
@@ -19,6 +20,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 ## String
 |  |
