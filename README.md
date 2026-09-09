@@ -17,6 +17,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -25,6 +26,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0001-two-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -83,4 +85,9 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
