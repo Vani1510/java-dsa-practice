@@ -12,6 +12,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +107,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vani1510/java-dsa-practice/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
