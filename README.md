@@ -7,6 +7,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vani1510/java-dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
@@ -14,6 +15,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vani1510/java-dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
@@ -100,4 +102,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vani1510/java-dsa-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
