@@ -54,11 +54,13 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +102,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
