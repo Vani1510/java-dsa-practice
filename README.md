@@ -58,6 +58,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0145-binary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
