@@ -13,6 +13,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,4 +142,12 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
