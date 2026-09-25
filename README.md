@@ -135,4 +135,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
