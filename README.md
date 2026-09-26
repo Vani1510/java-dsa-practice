@@ -134,6 +134,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vani1510/java-dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Vani1510/java-dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
