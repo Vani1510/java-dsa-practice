@@ -42,6 +42,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0168-excel-sheet-column-title](https://github.com/Vani1510/java-dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [2833-furthest-point-from-origin](https://github.com/Vani1510/java-dsa-practice/tree/master/2833-furthest-point-from-origin) |
+| [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0326-power-of-three](https://github.com/Vani1510/java-dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vani1510/java-dsa-practice/tree/master/0367-valid-perfect-square) |
+| [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
+| [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
