@@ -132,6 +132,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +185,24 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
