@@ -15,6 +15,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+| [1046-last-stone-weight](https://github.com/Vani1510/java-dsa-practice/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,4 +223,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Vani1510/java-dsa-practice/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
