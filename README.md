@@ -74,6 +74,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,10 +144,12 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
