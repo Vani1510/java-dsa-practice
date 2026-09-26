@@ -138,6 +138,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vani1510/java-dsa-practice/tree/master/0367-valid-perfect-square) |
 | [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/Vani1510/java-dsa-practice/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 | [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/Vani1510/java-dsa-practice/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
