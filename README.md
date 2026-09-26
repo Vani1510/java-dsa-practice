@@ -135,6 +135,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0292-nim-game](https://github.com/Vani1510/java-dsa-practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vani1510/java-dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Vani1510/java-dsa-practice/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Vani1510/java-dsa-practice/tree/master/0367-valid-perfect-square) |
 ## Brainteaser
 |  |
 | ------- |
