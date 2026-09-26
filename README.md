@@ -125,6 +125,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0171-excel-sheet-column-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0263-ugly-number) |
 ## Stack
@@ -138,6 +139,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vani1510/java-dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
@@ -169,4 +171,8 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
