@@ -142,6 +142,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [3908-valid-digit-number](https://github.com/Vani1510/java-dsa-practice/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Vani1510/java-dsa-practice/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Vani1510/java-dsa-practice/tree/master/3959-check-good-integer) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vani1510/java-dsa-practice/tree/master/0011-container-with-most-water) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
