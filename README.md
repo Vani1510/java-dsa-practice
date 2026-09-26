@@ -34,6 +34,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+| [3945-digit-frequency-score](https://github.com/Vani1510/java-dsa-practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0342-power-of-four](https://github.com/Vani1510/java-dsa-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Vani1510/java-dsa-practice/tree/master/0367-valid-perfect-square) |
 | [3894-traffic-signal-color](https://github.com/Vani1510/java-dsa-practice/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/Vani1510/java-dsa-practice/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Vani1510/java-dsa-practice/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
