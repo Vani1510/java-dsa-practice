@@ -11,6 +11,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vani1510/java-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vani1510/java-dsa-practice/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1510/java-dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
@@ -32,6 +33,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +131,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -175,4 +179,9 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vani1510/java-dsa-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
