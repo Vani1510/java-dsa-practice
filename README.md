@@ -38,6 +38,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vani1510/java-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Vani1510/java-dsa-practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [2833-furthest-point-from-origin](https://github.com/Vani1510/java-dsa-practice/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
@@ -121,6 +122,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Vani1510/java-dsa-practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 ## Stack
 |  |
