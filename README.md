@@ -125,6 +125,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0171-excel-sheet-column-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vani1510/java-dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +160,12 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vani1510/java-dsa-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
