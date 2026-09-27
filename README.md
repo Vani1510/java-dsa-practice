@@ -81,6 +81,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Vani1510/java-dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vani1510/java-dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -94,6 +95,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Vani1510/java-dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vani1510/java-dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -178,6 +180,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Vani1510/java-dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vani1510/java-dsa-practice/tree/master/0210-course-schedule-ii) |
 | [1791-find-center-of-star-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -238,6 +241,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vani1510/java-dsa-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vani1510/java-dsa-practice/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
