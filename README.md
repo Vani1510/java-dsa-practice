@@ -32,6 +32,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | ------- |
 | [0001-two-sum](https://github.com/Vani1510/java-dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Vani1510/java-dsa-practice/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Vani1510/java-dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vani1510/java-dsa-practice/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vani1510/java-dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -89,6 +91,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 | [0101-symmetric-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Vani1510/java-dsa-practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Vani1510/java-dsa-practice/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -171,6 +174,7 @@ Java DSA and LeetCode practice solutions for placement preparation.
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/0133-clone-graph) |
 | [1791-find-center-of-star-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vani1510/java-dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
